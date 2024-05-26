@@ -1,0 +1,4 @@
+ContextMenu_FR = {
+	ContextMenu_cryButton = "Pleurer",
+	ContextMenu_cryButtonAlreadyCried = "Vous avez déjà pleuré aujourd'hui. Essayez de nouveau demain."
+}
