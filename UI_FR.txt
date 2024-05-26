@@ -1,0 +1,7 @@
+UI_FR = {
+    UI_trait_volatile = "Lunatique",
+    UI_trait_volatiledesc = "Vous avez tendance à être plus touché par la dépression que les autres.<br>Possibilité de faire une dépression nerveuse et de commencer à pleurer à des niveaux de dépression élevés.<br>Vous ne pourrez pas contrôler votre personnage tant qu'il ou elle n'aura pas fini de pleurer.<br>Pleurer produira un bruit audible par les zombies."
+
+    UI_trait_crybaby = "Pleurnichard",
+    UI_trait_crybabydesc = "Vous avez tendance à pleurer souvent.<br>Votre personnage se mettra automatiquement à pleurer en cas de niveaux de dépression élevés.<br>Vous pourrez contrôler votre personnage pendant qu'il ou elle pleure spontanément.<br>Pleurer produira un bruit audible par les zombies."
+    }
